@@ -1,7 +1,11 @@
 package All;
 
-import java.util.*;
-
+/**
+ * 考点：链表Linked-List
+ * 需要考虑两个入参均为空的情况
+ * 线性表是最常用的存储结构，线性表的每个单元成为元素，元素拥有一个数据及一个地址
+ * 两种物理存储方式：顺序存储方式和链式存储方式
+ */
 
 public class ListNode {
     int val;
